@@ -84,8 +84,12 @@ le résultat du fichier est comme le suivant :
 
 Question;Answer
 who is the last king of morocco?;The last king of Morocco was King Mohammed VI, who ascended to the throne in 1999.
-who is the last king of morocco?;The current King of Morocco is King Mohammed VI. He took the throne on July 23, 1999, upon the death of his father, King Hassan II.
+
+who is the last king of morocco?;The current King of Morocco is King Mohammed VI. He took the throne on July 23, 1999, upon the death 
+of his father, King Hassan II.
+
 who is the last king of morocco?;The current King of Morocco is King Mohammed VI, who ascended to the throne in 1999.
+
 how are you doing ?;I'm doing well, thank you. And you?
 
 
