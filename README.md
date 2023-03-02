@@ -75,6 +75,20 @@ Avec la méthode send , nous envoyons la requête POST et spécifions que le cor
 La réponse de l'intelligence artificielle se trouve dans l' attribut text de la liste de choix . J'ai raccourci le code Java pour la séquence de Fibonacci ici - essayez-le vous-même pour le voir en entier.
 
 
+**Le fichier CSV**
+
+le fichier data.csv se trouve dans dir : src\main\java\de\bsi\openai\chatgpt\data.csv
+
+le résultat du fichier est comme le suivant : 
+
+
+Question;Answer
+who is the last king of morocco?;The last king of Morocco was King Mohammed VI, who ascended to the throne in 1999.
+who is the last king of morocco?;The current King of Morocco is King Mohammed VI. He took the throne on July 23, 1999, upon the death of his father, King Hassan II.
+who is the last king of morocco?;The current King of Morocco is King Mohammed VI, who ascended to the throne in 1999.
+how are you doing ?;I'm doing well, thank you. And you?
+
+
 ***Test et containerisation***
 
 En raison du manque de temps et d'un problème de docker, je n'ai pas pu conteneuriser l'application. sinon je pourrais la conteneuriser dans les prochains jours.
